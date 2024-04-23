@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "name": "Portfolio",
+        "html_url": "https://github.com/Jai0401/portfolio",
+        "description": "Personal Portfolio",
+        "language": "ReactJS / Gatsby / TypeScript",
+        "img_name": "pkportfolio.png"
+    },
+    {
+        "id": 1,
+        "name": "Coursify",
+        "html_url": "https://course-selling-site-2ec6cd01p-jai0401s-projects.vercel.app/",
+        "description": "Coursify is a full-stack web application designed to manage and deliver online courses. It provides an intuitive user interface for both administrators and users.",
+        "language": "ReactJS / JavaScript / NodeJS / MongoDB",
+        "img_name": "coursify.png"
+    }
+]
