@@ -14,5 +14,13 @@
         "description": "Coursify is a full-stack web application designed to manage and deliver online courses. It provides an intuitive user interface for both administrators and users.",
         "language": "ReactJS / JavaScript / NodeJS / MongoDB",
         "img_name": "coursify.png"
+    },
+    {
+        "id": 2,
+        "name": "Smart Attendance System using OpenCV",
+        "html_url": "https://github.com/Jai0401/smart-attendance-system.git",
+        "description": "It is an attendance system based on facial recognition",
+        "language": "openCV / caffeModel / ML",
+        "img_name": "SAS.png"
     }
 ]
