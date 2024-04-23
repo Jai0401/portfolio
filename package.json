@@ -1,9 +1,9 @@
 {
-  "name": "pk-portfolio",
+  "name": "portfolio",
   "version": "1.0.0",
   "private": true,
-  "description": "pk-portfolio",
-  "author": "Phuykong",
+  "description": "portfolio",
+  "author": "Jaimin",
   "keywords": [
     "gatsby"
   ],
