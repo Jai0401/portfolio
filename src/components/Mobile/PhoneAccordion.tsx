@@ -182,7 +182,7 @@ export const PhoneAccordion = () => {
             <Accordion title="About Me"
             i={1} expanded={expanded} setExpanded={setExpanded}>
                 <div className="pb-5 text-sm font-normal leading-snug">
-                    A junior at Temple University, PA pursuing a degree in Computer Science. I have a keen interest in Machine Language and Front-End Development.
+                I am a Computer Science student at Rajiv Gandhi Institute of Petroleum Technology. My passion lies in Machine Learning and Web Development, and during my spare time, I actively participate in open-source projects.
                 </div>
             </Accordion>
 
