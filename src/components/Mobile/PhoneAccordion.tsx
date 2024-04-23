@@ -186,7 +186,7 @@ export const PhoneAccordion = () => {
                 </div>
             </Accordion>
 
-            <Accordion title="Experiences"
+            {/* <Accordion title="Experiences"
             i={2} expanded={expanded1} setExpanded={setExpanded1}>
 
                 {
@@ -196,7 +196,7 @@ export const PhoneAccordion = () => {
                         theme={theme}/>
                     ))
                 }
-            </Accordion>
+            </Accordion> */}
 
             <Accordion title="Projects"
             i={3} expanded={expanded2} setExpanded={setExpanded2}>
@@ -215,14 +215,14 @@ export const PhoneAccordion = () => {
                 </div>
             </Accordion>
 
-            <Accordion title="Publications"
+            {/* <Accordion title="Publications"
             i={4} expanded={expanded3} setExpanded={setExpanded3}>
                 <div className="pb-5">
                     <div className="pt-1 text-sm leading-snug font-normal">
                         Thai, B., McNicholas, S., Shalamzari, S. S., Meng, P., & Picone, J. (2023). Towards a More Extensible Machine Learning Demonstration Tool. Proceedings of the IEEE Signal Processing in Medicine and Biology Symposium, 1–4.
                     </div>
                 </div>
-            </Accordion>
+            </Accordion> */}
         </div>
     )
 };
