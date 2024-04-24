@@ -22,5 +22,21 @@
         "description": "It is an attendance system based on facial recognition",
         "language": "openCV / caffeModel / ML",
         "img_name": "SAS.png"
+    },
+    {
+        "id": 3,
+        "name": "Plant ID",
+        "html_url": "https://github.com/Jai0401/team-plant-id.git",
+        "description": "A Flutter app for identifying plants using the device's camera. This app allows users to take a picture of a plant, and it provides information about the identified plant.",
+        "language": "Flutter / API / ML",
+        "img_name": "plantId.png"
+    },
+    {
+        "id": 4,
+        "name": "TEAM 11",
+        "html_url": "https://github.com/Jai0401/team11.git",
+        "description": "All-in-one cricket site where you can check the latest scores, and news and play fantasy games.",
+        "language": "HTML / CSS / JavaScript / NodeJS / Flask / MySQL",
+        "img_name": "team11.png"
     }
 ]
