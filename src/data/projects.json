@@ -6,9 +6,17 @@
         "description": "Personal Portfolio",
         "language": "ReactJS / Gatsby / TypeScript",
         "img_name": "pkportfolio.png"
+    },    
+    {
+        "id": 2,
+        "name": "QueryPDF",
+        "html_url": "https://query-pdf-swart.vercel.app",
+        "description": "QueryPDF is a FastAPI-based web application that allows users to upload PDFs and ask questions about the content. It leverages LangChain and Google Generative AI for natural language processing and provides detailed responses by creating and searching through text embeddings.",
+        "language": "GenAI / ReactJS / FastAPI / Python",
+        "img_name": "querypdf.png"
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Coursify",
         "html_url": "https://course-selling-site-2ec6cd01p-jai0401s-projects.vercel.app/",
         "description": "Coursify is a full-stack web application designed to manage and deliver online courses. It provides an intuitive user interface for both administrators and users.",
@@ -16,7 +24,7 @@
         "img_name": "coursify.png"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Smart Attendance System using OpenCV",
         "html_url": "https://github.com/Jai0401/smart-attendance-system.git",
         "description": "It is an attendance system based on facial recognition",
@@ -24,7 +32,7 @@
         "img_name": "SAS.png"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Plant ID",
         "html_url": "https://github.com/Jai0401/team-plant-id.git",
         "description": "A Flutter app for identifying plants using the device's camera. This app allows users to take a picture of a plant, and it provides information about the identified plant.",
@@ -32,7 +40,7 @@
         "img_name": "plantId.png"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "TEAM 11",
         "html_url": "https://github.com/Jai0401/team11.git",
         "description": "All-in-one cricket site where you can check the latest scores, and news and play fantasy games.",
