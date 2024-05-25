@@ -8,7 +8,7 @@
         "img_name": "pkportfolio.png"
     },    
     {
-        "id": 2,
+        "id": 1,
         "name": "QueryPDF",
         "html_url": "https://query-pdf-swart.vercel.app",
         "description": "QueryPDF is a FastAPI-based web application that allows users to upload PDFs and ask questions about the content. It leverages LangChain and Google Generative AI for natural language processing and provides detailed responses by creating and searching through text embeddings.",
