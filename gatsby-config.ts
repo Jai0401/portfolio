@@ -7,7 +7,7 @@ require("dotenv").config({
 const config: GatsbyConfig = {
   siteMetadata: {
     title: `Jaimin Godhani`,
-    description: 'Jaimin Godhani is a student at Temple University that has an interest in full-stack development.',
+    description: 'Jaimin Godhani is a student at Rajiv Gandhi Institute of Petroleum Technology that has an interest in full-stack development.',
     siteUrl: `https://www.jaimingodhani.me`
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
