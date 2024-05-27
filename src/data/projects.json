@@ -28,7 +28,7 @@
         "name": "Smart Attendance System using OpenCV",
         "html_url": "https://github.com/Jai0401/smart-attendance-system.git",
         "description": "It is an attendance system based on facial recognition",
-        "language": "openCV / caffeModel / ML",
+        "language": "openCV / caffeModel / ML / Python",
         "img_name": "SAS.png"
     },
     {
