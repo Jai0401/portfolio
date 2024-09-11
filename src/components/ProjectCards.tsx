@@ -80,7 +80,7 @@ function Modal({modal, projects } : {modal: any, projects: any}) {
 
     return (
         <>
-            <motion.div
+            {/* <motion.div
             ref={modalContainer}
             className="absolute flex bg-white items-center justify-center
             pointer-events-none overflow-hidden h-[250px] w-[400px]"
@@ -108,7 +108,7 @@ function Modal({modal, projects } : {modal: any, projects: any}) {
                     })
                 }
                 </div>
-            </motion.div>
+            </motion.div> */}
             <motion.div ref={cursor}
             style={{
                 color: theme.text_color,
